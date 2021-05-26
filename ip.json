@@ -1,0 +1,92 @@
+{"domain_group": [
+  {
+    "domain": "https://api.ipg9h.com" ,
+    "token": "fe9d9436938d437bb14ae0e44496bf83",
+    "domain_status": "0"
+  },
+  {
+    "domain": "https://api.4a3n0p.com",
+    "token": "1b3c2d92ffc14e6ab9b5ab3ae44d7109",
+    "domain_status": "0"
+  },
+  {
+    "domain": "https://api.3039u6.com",
+    "token": "a03cc5561aa24e44a764f0b1acf452c4",
+    "domain_status": "0"
+  },
+  {
+    "domain": "https://api.37122h.com",
+    "token": "36558c7be57e41ebaf35967cee0fb8c1",
+    "domain_status": "0"
+  },
+  {
+    "domain": "https://api.2y3606.com",
+    "token": "391c4a0e3234411c949ba4d480d79843",
+    "domain_status": "0"
+  },
+  {
+    "domain": "https://api.xuebase.com",
+    "token": "b7ba70799ae24217b125447c3c9bc364",
+    "domain_status": "0"
+  },
+  {
+    "domain": "https://api.yituizk.com",
+    "token": "7b2235f259b04c6ca4e0fa9b911dfcce",
+    "domain_status": "0"
+  },
+  {
+    "domain": "https://api.yulonggrop.com",
+    "token": "fa85eb829a3e4544a0438e2012a618e2",
+    "domain_status": "0"
+  },
+  {
+    "domain": "https://api.zctx168.com",
+    "token": "a863d5293031477c90748ec9e030f942",
+    "domain_status": "0"
+  },
+  {
+    "domain": "https://api.zhoubianxinxi.com",
+    "token": "e1f67480fe7e4bba9db44784c7ff4217",
+    "domain_status": "0"
+  },
+  {
+    "domain": "https://api.d866z.com",
+    "token": "86fc693d0c684c388c39adff5abad8f2",
+    "domain_status": "1"
+  },
+  {
+    "domain": "https://api.kkyh7m.com",
+    "token": "30634a522a8f4c2e924beb75bd94f04e",
+    "domain_status": "1"
+  },
+  {
+    "domain": "https://api.pl773.com",
+    "token": "3e628402b1cd43148430f9e1e3f55b45",
+    "domain_status": "1"
+  },
+  {
+    "domain": "https://api.2e2yz.com",
+    "token": "11d17c3df2e84426a45a98b2764c5000",
+    "domain_status": "1"
+  },
+  {
+    "domain": "https://api.77w4i3.com",
+    "token": "7ca8f007e83f4000a0d5162f97c8cbd7",
+    "domain_status": "1"
+  }
+],
+  "ip_group":[
+    {
+      "ip": "http://124.71.153.109:9527/chess_android.json"
+    },
+    {
+      "ip": "http://119.23.255.174:9527/chess_android.json"
+    }
+  ],
+  "cert":[
+    {
+      "url": "https://download.xaqbbs.com/cefiles/chess/poker.cer",
+      "version": "1.2.0"
+    }
+  ]
+}
